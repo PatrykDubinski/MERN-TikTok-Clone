@@ -1,3 +1,7 @@
+It's very simple app, just to learn MERN stack.
+
+Live version: [https://tinder-clone-35e90.web.app/](https://tinder-clone-35e90.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
